@@ -1,0 +1,17 @@
+com\estate\estatemanagement\dao\CommunityMapper.class
+com\estate\estatemanagement\common\Result.class
+com\estate\estatemanagement\service\BuildingService.class
+com\estate\estatemanagement\domain\Building.class
+com\estate\estatemanagement\common\MessageConstant.class
+com\estate\estatemanagement\domain\Community.class
+com\estate\estatemanagement\service\impl\CommunityServiceImpl.class
+com\estate\estatemanagement\exception\GlobalExceptionHandler.class
+com\estate\estatemanagement\controller\CommunityController.class
+com\estate\estatemanagement\controller\FileController.class
+com\estate\estatemanagement\dao\BuildingMapper.class
+com\estate\estatemanagement\EstateManagementApplication.class
+com\estate\estatemanagement\service\impl\BuildingServiceImpl.class
+com\estate\estatemanagement\service\CommunityService.class
+com\estate\estatemanagement\common\PageResult.class
+com\estate\estatemanagement\controller\BuildingController.class
+com\estate\estatemanagement\common\StatusCode.class

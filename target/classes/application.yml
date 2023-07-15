@@ -1,0 +1,14 @@
+server:
+  port: 8888 #\u9879\u76EE\u542F\u52A8\u8BBF\u95EE\u7AEF\u53E3
+spring:
+  application:
+    name: goods
+  datasource: #\u8FDE\u63A5\u6570\u636E\u5E93\u914D\u7F6E
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://122.152.193.153:3306/estate?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 000000
+  servlet:
+    multipart: #\u6587\u4EF6\u4E0A\u4F20\u914D\u7F6E
+      max-file-size: 10MB
+      max-request-size: 50MB

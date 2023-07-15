@@ -1,0 +1,17 @@
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\service\CommunityService.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\common\MessageConstant.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\common\Result.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\common\PageResult.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\exception\GlobalExceptionHandler.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\common\StatusCode.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\domain\Community.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\controller\FileController.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\controller\CommunityController.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\dao\BuildingMapper.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\dao\CommunityMapper.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\service\BuildingService.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\domain\Building.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\controller\BuildingController.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\service\impl\CommunityServiceImpl.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\EstateManagementApplication.java
+E:\IDEA\localhost\estate-management\src\main\java\com\estate\estatemanagement\service\impl\BuildingServiceImpl.java
